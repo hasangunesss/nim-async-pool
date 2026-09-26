@@ -1,0 +1,8 @@
+nimcache/
+*.exe
+*.out
+*.o
+*.c
+.DS_Store
+*.swp
+*.log
